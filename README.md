@@ -24,7 +24,7 @@ It also checks if users have sufficient funds before processing a debit request.
 
 New users are given an initial balance of 1000 Rupees.
 Existing users start with an initial balance of 1000 Rupees as well.
-<h2>6.Projet Strcture</h2>
+<h2>6.Project Structure</h2>
 
 The code is organized into two classes: Bank and ATM.
 The Bank class contains methods for user authentication, adding new users, checking balances, crediting money, and debiting money. It also initializes account information using HashMaps.
