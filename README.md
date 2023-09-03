@@ -1,4 +1,4 @@
-Project Name: EasyBank - Simplifying Your Banking Experience
+Project Name: EasyBank - <h1>Simplifying Your Banking Experience</h1>
 
 Description:
 The "EasyBank" project is an interactive ATM management system implemented in Java. It provides users with a user-friendly interface to perform essential banking operations, including account creation, authentication, balance checking, depositing funds, and withdrawing funds. With EasyBank, managing your finances becomes a breeze!
